@@ -41,6 +41,3 @@ Crear una representación XML de la materialidad empresarial que permita:
 
 ## Validación
 El archivo `materialidad.xml` está enlazado a `materialidad.xsd` mediante `xsi:noNamespaceSchemaLocation`.
-
-## Notas
-No se encontró un documento local llamado `BBDD_Academicas` en este espacio de trabajo, por lo que la selección de temas se apoyó en fuentes académicas generales de la literatura IEEE sobre Green IT y materialidad en TIC.
