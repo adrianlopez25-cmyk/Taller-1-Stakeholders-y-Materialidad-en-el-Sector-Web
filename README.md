@@ -41,3 +41,5 @@ Crear una representación XML de la materialidad empresarial que permita:
 
 ## Validación
 El archivo `materialidad.xml` está enlazado a `materialidad.xsd` mediante `xsi:noNamespaceSchemaLocation`.
+## NOTAS
+La informacion encontrada a sido mediante el uso de Google Scholar, ahi encontre informacion sobre los tres temas que me he decantado por seleccionar.
