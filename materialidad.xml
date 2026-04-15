@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa_sostenible xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="materialidad.xsd">
+  <stakeholder importancia="alta">Clientes y usuarios</stakeholder>
+  <stakeholder importancia="alta">Inversionistas, socios y reguladores</stakeholder>
+  <stakeholder importancia="media">Empleados y equipo técnico</stakeholder>
+
+  <tema_material nivel_asg="Ambiental">
+    <nombre>Eficiencia energética del código</nombre>
+    <descripcion>Optimización de software y arquitecturas web para reducir el consumo de energía en servidores, data centers y dispositivos finales.</descripcion>
+    <impacto>Alto</impacto>
+  </tema_material>
+
+  <tema_material nivel_asg="Social">
+    <nombre>Accesibilidad universal</nombre>
+    <descripcion>Diseño e implementación de interfaces inclusivas que garantizan acceso web para personas con discapacidad y diversidad funcional.</descripcion>
+    <impacto>Alto</impacto>
+  </tema_material>
+
+  <tema_material nivel_asg="Gobernanza">
+    <nombre>Privacidad y gobernanza de datos</nombre>
+    <descripcion>Políticas y prácticas de protección de datos, cumplimiento GDPR y manejo ético de información de clientes y usuarios.</descripcion>
+    <impacto>Alto</impacto>
+  </tema_material>
+</empresa_sostenible>
